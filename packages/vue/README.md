@@ -1,21 +1,23 @@
 # vue
 
-## Project setup
+## 项目初始化
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+
+### 项目启动进入开发模式
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### lint修正
 ```
 yarn lint
 ```
